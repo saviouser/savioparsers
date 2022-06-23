@@ -10,7 +10,7 @@ from config import DATABASE
 import sqlite3
 from sqlite3 import Error
 
-FILE1 = "position_WB.csv"
+# FILE1 = "position_WB.csv"
 
 file_id= 'Артикулы.csv'
 SESSION = requests.Session()
